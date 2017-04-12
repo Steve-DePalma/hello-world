@@ -9,3 +9,16 @@ There goes two hashes.
 ### Three hashes
 And that was three hashes!
 Will there be more?
+```bash
+$ git config one
+$ git config two
+$ for f in *.txt; do wc -l $f; done
+$ ls *.bam *.bai
+```
+How does that look? Be honest.
+```perl
+foreach my $file (keys %files) {
+  printf "%s\n", $file;
+}
+```
+How does the Perl code look?
